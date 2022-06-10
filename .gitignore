@@ -1,0 +1,4 @@
+# we are eliminating text files
+text.txt
+# we are eliminating png files
+*.png
